@@ -1,0 +1,8 @@
+commands-version: daffy
+duckietown-shell: 5.4.5
+duckietown-shell-commands: 5.4.5
+encodings:
+  locale: UTF-8
+  stderr: utf-8
+  stdout: utf-8
+python: "3.8.10 (default, Nov 14 2022, 12:59:47) \n[GCC 9.4.0]"
